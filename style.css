@@ -1,5 +1,5 @@
 body {
-  min-height: 2000px;
+  min-height: 1000px;
 }
 
 .jumbotron {
@@ -7,6 +7,14 @@ body {
   background-color: rgb(238, 221, 221);
 }
 
+.about {
+  background-color: #deb887;
+}
+
 #project {
   background-color: #a2d9ff;
+}
+
+.contact {
+  background-color: #ffb6c1;
 }
