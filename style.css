@@ -19,6 +19,14 @@ section {
   padding-top: 5rem;
 }
 
+.galleri-img {
+  width: 100%;
+}
+
 .contact {
   background-color: #ffb6c1;
+}
+
+#gallery .row > * {
+  padding: 0;
 }
