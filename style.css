@@ -3,7 +3,7 @@ body {
 }
 
 .jumbotron {
-  padding-top: 2rem;
+  padding-top: 6rem;
   background-color: rgb(238, 221, 221);
 }
 
@@ -11,8 +11,12 @@ body {
   background-color: #deb887;
 }
 
-#project {
+.project {
   background-color: #a2d9ff;
+}
+
+section {
+  padding-top: 5rem;
 }
 
 .contact {
